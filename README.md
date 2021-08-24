@@ -5,6 +5,8 @@
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassanmas&count_private=true&show_icons=true&hide_title=true&hide=stars" />
    </p>
 </div>
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=5532723)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
+
 <!--
 **ghassanmas/ghassanmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
