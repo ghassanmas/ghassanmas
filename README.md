@@ -11,8 +11,14 @@ href="https://stackoverflow.com/users/5532723/ghassan-maslamani" target="_blank"
 src="https://stackoverflow-badge.vercel.app/?userID=5532723" ></a> 
 </p>
 
-![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1642110318)
+<div align="center">
+  
+<sup>You are visitor number:</sup>
 
+
+![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1642110318)
+  <sup> Counting started from 21:47 Thursday, 13 January 2022 </sup>
+   </div>
 <!--
 **ghassanmas/ghassanmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
