@@ -17,8 +17,8 @@ src="https://stackoverflow-badge.vercel.app/?userID=5532723" ></a>
 
 
 ![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1642110318)
+      <br/>
   <sup> Counting started from 21:47 Thursday, 13 January 2022 </sup>
-   <br>
    </div>
 <!--
 **ghassanmas/ghassanmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
