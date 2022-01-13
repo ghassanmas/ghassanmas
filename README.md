@@ -11,6 +11,8 @@ href="https://stackoverflow.com/users/5532723/ghassan-maslamani" target="_blank"
 src="https://stackoverflow-badge.vercel.app/?userID=5532723" ></a> 
 </p>
 
+![Hit counter](https://smallcounter.com/count.php?c_style=14&id=1642110318)
+
 <!--
 **ghassanmas/ghassanmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
