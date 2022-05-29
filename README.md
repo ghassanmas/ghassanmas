@@ -7,7 +7,9 @@
 </div>
 
 <!--START_SECTION:feed-->
-...
+* [Code and Law](https:&#x2F;&#x2F;ghassan.blog&#x2F;posts&#x2F;code-and-law&#x2F;)
+* [Boost the speed of spotlight search MAC-OS.](https:&#x2F;&#x2F;ghassan.blog&#x2F;posts&#x2F;optimize-mac-spotlight-speed&#x2F;)
+* [A brief history of the Open edX platform.](https:&#x2F;&#x2F;ghassan.blog&#x2F;posts&#x2F;openedx-an-overview&#x2F;)
 <!--END_SECTION:feed-->
 
 <!--
