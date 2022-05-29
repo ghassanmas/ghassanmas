@@ -6,6 +6,10 @@
    </p>
 </div>
 
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 <!--
 <p align="center">
 <a 
