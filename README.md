@@ -5,6 +5,8 @@
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassanmas&count_private=true&show_icons=true&hide_title=true&hide=stars" />
    </p>
 </div>
+
+<!--
 <p align="center">
 <a 
 href="https://stackoverflow.com/users/5532723/ghassan-maslamani" target="_blank"><img alt="StackOverflow" 
@@ -20,7 +22,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=5532723" ></a>
       <br/>
   <sup> Counting started from 21:47 Thursday, 13 January 2022 </sup>
    </div>
-<!--
+
 **ghassanmas/ghassanmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
