@@ -1,9 +1,6 @@
 name: Update this repo's README
 
 on:
-  schedule:
-    # Once a day at 8 AM
-      - cron: 0 8 * * *
   workflow_dispatch:
 
 jobs:
