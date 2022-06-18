@@ -11,3 +11,4 @@ jobs:
         with:
           feed-url: https://ghassan.blog/feed/feed.xml
           readme-section: feed
+          branch: main
