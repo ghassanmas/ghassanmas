@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+<!--
 <div align="center">
    <p align="center">
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassanmas&count_private=true&show_icons=true&hide_title=true&hide=stars" />
    </p>
 </div>
-
+-->
 <!--START_SECTION:feed-->
 * [The similarity between Abu Akleh and Khashoggi](https:&#x2F;&#x2F;ghassan.blog&#x2F;posts&#x2F;shireen-abu-akleh-and-jamal-khashoggi&#x2F;)
 * [Code and Law](https:&#x2F;&#x2F;ghassan.blog&#x2F;posts&#x2F;code-and-law&#x2F;)
