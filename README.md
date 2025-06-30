@@ -7,6 +7,7 @@
 </div>
 -->
 <!--START_SECTION:feed-->
+* [A short story between U6 and U8 of Berlin](https:&#x2F;&#x2F;ghassan.blog&#x2F;posts&#x2F;berlin-u8-u7-u6&#x2F;)
 * [The similarity between Abu Akleh and Khashoggi](https:&#x2F;&#x2F;ghassan.blog&#x2F;posts&#x2F;shireen-abu-akleh-and-jamal-khashoggi&#x2F;)
 * [Code and Law](https:&#x2F;&#x2F;ghassan.blog&#x2F;posts&#x2F;code-and-law&#x2F;)
 * [Boost the speed of spotlight search MAC-OS.](https:&#x2F;&#x2F;ghassan.blog&#x2F;posts&#x2F;optimize-mac-spotlight-speed&#x2F;)
